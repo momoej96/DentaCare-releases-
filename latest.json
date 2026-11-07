@@ -1,8 +1,8 @@
 {
-  "version": "1.1.1",
-  "url": "https://raw.githubusercontent.com/momoej96/DentaCare-releases-/main/DentaCare-Setup-1.1.1.exe",
-  "size": 13292440,
-  "sha256": "7d805a722c8e27311406cb4392fdaa8b7d3f205d3e59797b2800c646d66e9e59",
-  "notes": "تصليح لوحة اختيار الإجراء والأسنان بالوضع الليلي",
-  "sig": "fd8429b975c863fceb2782a6874b6708e2cf90777c4c0be6f677a6072080a0ce0426d5a70c640e68acc8c1867e8537a960b02e435feed21e361dcdfe14a6f00c"
+  "version": "1.1.2",
+  "url": "https://raw.githubusercontent.com/momoej96/DentaCare-releases-/main/DentaCare-Setup-1.1.2.exe",
+  "size": 13293922,
+  "sha256": "ad78560bfbfc3782c4b60fce21da81b606042e8deb163fc6a24d7c7c3d3a8fd9",
+  "notes": "التجربة صارت 20 ساعة استخدام، وحماية أقوى للفترة التجريبية",
+  "sig": "06a67a6e63f3e7a173fd7b1195e180b88375992bdc7623d979bf5e9c2414d2fbac6049c715f46933be03b7b424c3dfd1c82ca5721177f171bbb688fd53a2a40b"
 }
