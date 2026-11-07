@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/momoej96/DentaCare-releases-/releases/download/v1.0.0/DentaCare-Setup-1.0.0.exe",
-  "size": 13288643,
-  "sha256": "c33b0379fbe806432557b70fe8d3b6654cb4e27615c3e029ae707fab2482c3c0",
-  "notes": "الإصدار الأول",
-  "sig": "fdc18ff44247a68f901c2dad1ac550d2f887d225889a6f014a570eb73bc622bde6c16c4c1a28656e424776d82662cf006b4c431150ca4b2d6db4a73c1f0ba90f"
+  "version": "1.1.0",
+  "url": "https://raw.githubusercontent.com/momoej96/DentaCare-releases-/main/DentaCare-Setup-1.1.0.exe",
+  "size": 13295806,
+  "sha256": "aaf0e7ac522c17e78602b3a35e8587b6c13024e0c6b62ec64c2361fee38c22f1",
+  "notes": "ترجمة الواجهة للإنكليزية والكردية، ألوان الواجهة، وتصليح تغيير اللغة من الإعدادات",
+  "sig": "22d490e6c0c29b47be367305349f65e4034843b2fd697a52333956520476c9dc3fd4dc5f31c792d57065cde9f63c6333177ee0ea675e1cd1241d221ce175c502"
 }
