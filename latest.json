@@ -1,8 +1,8 @@
 {
-  "version": "1.1.2",
-  "url": "https://raw.githubusercontent.com/momoej96/DentaCare-releases-/main/DentaCare-Setup-1.1.2.exe",
-  "size": 13293922,
-  "sha256": "ad78560bfbfc3782c4b60fce21da81b606042e8deb163fc6a24d7c7c3d3a8fd9",
-  "notes": "التجربة صارت 20 ساعة استخدام، وحماية أقوى للفترة التجريبية",
-  "sig": "06a67a6e63f3e7a173fd7b1195e180b88375992bdc7623d979bf5e9c2414d2fbac6049c715f46933be03b7b424c3dfd1c82ca5721177f171bbb688fd53a2a40b"
+  "version": "1.1.3",
+  "url": "https://raw.githubusercontent.com/momoej96/DentaCare-releases-/main/DentaCare-Setup-1.1.3.exe",
+  "size": 13295840,
+  "sha256": "f537c07dd47687b542f8056e3019a5af59d2f229caf64b4138f6c3468b87df53",
+  "notes": "رجوع الكلفة والمدفوع والمجاميع بشاشة زيارات يوم / فترة",
+  "sig": "352adb9a773f42f4c6a44ce6e58c7b572be883d96b15a7c84e5bffd47e7e13407c4afcac2779ad24da3c9e302646a349e939e5af58fce5484629021a63fba206"
 }
