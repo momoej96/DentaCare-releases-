@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "url": "https://raw.githubusercontent.com/momoej96/DentaCare-releases-/main/DentaCare-Setup-1.2.0.exe",
-  "size": 15608387,
-  "sha256": "ced63e4da2d818ea169edc6851f480af44b603be2b89fea7befcdab8130ac089",
-  "notes": "حجوزات اليوم تظهر بمراجعات اليوم مع ترتيب حسب الحجز أو الحضور، المصروفات الثابتة (الإيجار والرواتب) تتسجل وحدها، ترتيب الإعدادات، زر المزامنة والموبايل، حذف مستخدم، نسخ واستعادة مع استيراد ملف data، وتصليح اتجاه نافذة الإجراءات",
-  "sig": "6346db9c6538ec109c83c6a2bb04d430dea100d4b39922696e457ec99bf9fb18b3dc851536d2c2b6bd3eb1f4597e4d898951b1b677958023dde4e557991efb01"
+  "version": "1.2.1",
+  "url": "https://raw.githubusercontent.com/momoej96/DentaCare-releases-/main/DentaCare-Setup-1.2.1.exe",
+  "size": 15617011,
+  "sha256": "80beadee3eb0842f93323fb0e403783926dd1ae87b2dd5fae5399b9b177b3540",
+  "notes": "ترتيب الإعدادات بقائمة وأيقونات، حجوزات الموبايل تنزل وحدها مع تنبيه وما تضيع أبداً، مدة الموعد (أكثر من موعد لنفس المراجع)، تسمية أجهزة المزامنة، وربط موبايل للحجز من أي حاسبة بالعيادة",
+  "sig": "1768df543e41d330f12205a1ce890f713b2a0c03aa6b0bd094e1b64daf774e8083b2a9fe1d8231230b6856cf0bd00f565b0589f5816b0ce77a60edd05f5a150b"
 }
