@@ -1,10 +1,10 @@
 {
-  "version": "1.3.0",
-  "url": "https://raw.githubusercontent.com/momoej96/DentaCare-releases-/main/DentaCare-Setup-1.3.0.exe",
-  "size": 15634509,
-  "sha256": "264f459f5ded206addb34ac58aa284432b0f0ae14b6658296be8f5c142d8e246",
-  "notes": "شكل جديد بالكامل ووضع ليلي\nزر رجوع ويتذكر مكانك بكل قسم\nرسوم بيانية بالتقارير والمصروفات وتقرير أسبوعي\nنافذة زيارة ووصفة جديدتان مع معاينة\nترتيب الأطباء والمختبرات، وشكل مريح بالموبايل",
-  "notes_en": "All-new design with dark mode\nBack button that remembers where you were\nCharts in reports and expenses, plus a weekly report\nNew visit and prescription windows with live preview\nManage doctors and labs, and a phone-friendly layout",
-  "notes_ckb": "دیزاینێکی تەواو نوێ و دۆخی تاریک\nدوگمەی گەڕانەوە و بیرهێنانەوەی شوێنەکەت\nهێڵکاری لە ڕاپۆرت و خەرجییەکان و ڕاپۆرتی هەفتانە\nپەنجەرەی نوێی سەردان و ڕەچەتە لەگەڵ پێشبینین\nڕێکخستنی پزیشکان و تاقیگەکان و شێوەیەکی گونجاو بۆ مۆبایل",
-  "sig": "520838e2a243becdbc739ca3dbbc2cddeebbc24e8045d1952f54dfe106837ea939efcd79f2464b23c4eef94693fc021c42c72a7be875f7e53d05b6cd37e4dd0f"
+  "version": "1.3.1",
+  "url": "https://raw.githubusercontent.com/momoej96/DentaCare-releases-/main/DentaCare-Setup-1.3.1.exe",
+  "size": 15692406,
+  "sha256": "3646f14a5222e9d456f6b6df230b43ca79062abf32258b800ac5d9fb9c8bf9b7",
+  "notes": "• قائمة الأسعار: السعر ينكتب وحده بالزيارة (لكل سن، وحشوة الجذر تنقسم على عدد الجلسات) وتكدر تغيّره بضغطة\n• واجهة «تنصيب العيادة» لأول مرة: العيادة، النقابة، الأطباء، الاختصاصات، الجذر، والأسعار\n• تفعيل أو إخفاء إجراءات الزراعة والتقويم والتجميل حسب شغلك\n• الزراعة: الشركة والقطر والطول — والتجميل: فلر، بوتوكس، إبرة النضارة، تذويب الفلر مع مخطط الوجه\n• تقويم ديمون، وقائمة مواد الفلر والبوتوكس\n• نسيت كلمة المرور؟ رمز استرجاع تطبعه، أو رمز فتح من الدعم — بدون ما أحد يشوف بياناتك\n• المساعدة والدعم: دليل البداية، أسئلة شائعة، وصندوق مشاكل واقتراحات\n• مفاتيح جديدة بشكل الآيفون بدل علامات الصح",
+  "notes_en": "• Price list: the price fills in by itself in the visit (per tooth; root canals split across sessions) and you can change it with one tap\n• First-run “Clinic setup”: clinic, union, doctors, specialties, root canal and prices\n• Turn implant, orthodontic and aesthetic procedures on or off to match your work\n• Implants: company, diameter and length — Aesthetics: filler, Botox, skin booster and filler dissolving with a face chart\n• Damon braces, and a list of filler and Botox products\n• Forgot your password? A printed recovery code, or an unlock code from support — nobody sees your data\n• Help & support: getting-started guide, FAQ, and a problems/suggestions box\n• iPhone-style switches instead of checkboxes",
+  "notes_ckb": "• لیستی نرخەکان: نرخ خۆکارانە لە سەرداندا دەنووسرێت (بۆ هەر ددانێک، و پڕکردنەوەی ڕەگ بەسەر دانیشتنەکاندا دابەش دەکرێت) و بە یەک کرتە دەیگۆڕیت\n• «دامەزراندنی کلینیک» بۆ یەکەم جار: کلینیک، سەندیکا، پزیشکان، پسپۆڕییەکان، ڕەگ و نرخەکان\n• چالاککردن یان شاردنەوەی کردارەکانی چاندن، ڕێکخستن و جوانکاری بەپێی کارەکەت\n• چاندن: کۆمپانیا، تیرە و درێژی — جوانکاری: فیلەر، بۆتۆکس، دەرزی گەشاوەیی و توانەوەی فیلەر لەگەڵ وێنەی دەموچاو\n• ڕێکخستنی دەیمۆن، و لیستی ماددەکانی فیلەر و بۆتۆکس\n• وشەی نهێنیت لەبیرچووە؟ کۆدی گەڕاندنەوەی چاپکراو، یان کۆدی کردنەوە لە پشتگیری — کەس زانیارییەکانت نابینێت\n• یارمەتی و پشتگیری: ڕێبەری دەستپێکردن، پرسیارە باوەکان، و سندوقی کێشە و پێشنیار\n• سویچی شێوەی ئایفۆن لە جیاتی نیشانەی ✓",
+  "sig": "6412bcfe4e77d3235202843c17cf3635115ada37ec5e40a5106a5c8eec2109ca44b182716d0607ae0370d007d5b2375238dd5140ac197d2f1de0e51223385002"
 }
