@@ -1,10 +1,10 @@
 {
-  "version": "1.3.1",
-  "url": "https://raw.githubusercontent.com/momoej96/DentaCare-releases-/main/DentaCare-Setup-1.3.1.exe",
-  "size": 15692406,
-  "sha256": "3646f14a5222e9d456f6b6df230b43ca79062abf32258b800ac5d9fb9c8bf9b7",
-  "notes": "• قائمة الأسعار: السعر ينكتب وحده بالزيارة (لكل سن، وحشوة الجذر تنقسم على عدد الجلسات) وتكدر تغيّره بضغطة\n• واجهة «تنصيب العيادة» لأول مرة: العيادة، النقابة، الأطباء، الاختصاصات، الجذر، والأسعار\n• تفعيل أو إخفاء إجراءات الزراعة والتقويم والتجميل حسب شغلك\n• الزراعة: الشركة والقطر والطول — والتجميل: فلر، بوتوكس، إبرة النضارة، تذويب الفلر مع مخطط الوجه\n• تقويم ديمون، وقائمة مواد الفلر والبوتوكس\n• نسيت كلمة المرور؟ رمز استرجاع تطبعه، أو رمز فتح من الدعم — بدون ما أحد يشوف بياناتك\n• المساعدة والدعم: دليل البداية، أسئلة شائعة، وصندوق مشاكل واقتراحات\n• مفاتيح جديدة بشكل الآيفون بدل علامات الصح",
-  "notes_en": "• Price list: the price fills in by itself in the visit (per tooth; root canals split across sessions) and you can change it with one tap\n• First-run “Clinic setup”: clinic, union, doctors, specialties, root canal and prices\n• Turn implant, orthodontic and aesthetic procedures on or off to match your work\n• Implants: company, diameter and length — Aesthetics: filler, Botox, skin booster and filler dissolving with a face chart\n• Damon braces, and a list of filler and Botox products\n• Forgot your password? A printed recovery code, or an unlock code from support — nobody sees your data\n• Help & support: getting-started guide, FAQ, and a problems/suggestions box\n• iPhone-style switches instead of checkboxes",
-  "notes_ckb": "• لیستی نرخەکان: نرخ خۆکارانە لە سەرداندا دەنووسرێت (بۆ هەر ددانێک، و پڕکردنەوەی ڕەگ بەسەر دانیشتنەکاندا دابەش دەکرێت) و بە یەک کرتە دەیگۆڕیت\n• «دامەزراندنی کلینیک» بۆ یەکەم جار: کلینیک، سەندیکا، پزیشکان، پسپۆڕییەکان، ڕەگ و نرخەکان\n• چالاککردن یان شاردنەوەی کردارەکانی چاندن، ڕێکخستن و جوانکاری بەپێی کارەکەت\n• چاندن: کۆمپانیا، تیرە و درێژی — جوانکاری: فیلەر، بۆتۆکس، دەرزی گەشاوەیی و توانەوەی فیلەر لەگەڵ وێنەی دەموچاو\n• ڕێکخستنی دەیمۆن، و لیستی ماددەکانی فیلەر و بۆتۆکس\n• وشەی نهێنیت لەبیرچووە؟ کۆدی گەڕاندنەوەی چاپکراو، یان کۆدی کردنەوە لە پشتگیری — کەس زانیارییەکانت نابینێت\n• یارمەتی و پشتگیری: ڕێبەری دەستپێکردن، پرسیارە باوەکان، و سندوقی کێشە و پێشنیار\n• سویچی شێوەی ئایفۆن لە جیاتی نیشانەی ✓",
-  "sig": "6412bcfe4e77d3235202843c17cf3635115ada37ec5e40a5106a5c8eec2109ca44b182716d0607ae0370d007d5b2375238dd5140ac197d2f1de0e51223385002"
+  "version": "1.3.2",
+  "url": "https://raw.githubusercontent.com/momoej96/DentaCare-releases-/main/DentaCare-Setup-1.3.2.exe",
+  "size": 15688439,
+  "sha256": "2c4fb1cf2be29336ccb3f0f8521886d1836c06e1a4ce019a474c017ec2f36791",
+  "notes": "• إصلاح: أزرار المصروفات الثابتة (إيجار، راتب موظف، مصروف آخر) ترجع تشتغل",
+  "notes_en": "• Fix: the fixed-expense buttons (rent, salary, other) work again",
+  "notes_ckb": "• چاککردن: دوگمەکانی خەرجی جێگیر (کرێ، مووچە، خەرجی تر) دووبارە کار دەکەنەوە",
+  "sig": "d849eb2862fe4480f73b12ec88b773381945f951bd6c6837254c25046ee5269c6d40d01d6701d7460eb81df65d4554b27d803411df4a9497eb31aad84f6ccb08"
 }
