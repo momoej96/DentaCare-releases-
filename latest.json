@@ -1,10 +1,10 @@
 {
-  "version": "1.3.2",
-  "url": "https://raw.githubusercontent.com/momoej96/DentaCare-releases-/main/DentaCare-Setup-1.3.2.exe",
-  "size": 15688439,
-  "sha256": "2c4fb1cf2be29336ccb3f0f8521886d1836c06e1a4ce019a474c017ec2f36791",
-  "notes": "• إصلاح: أزرار المصروفات الثابتة (إيجار، راتب موظف، مصروف آخر) ترجع تشتغل",
-  "notes_en": "• Fix: the fixed-expense buttons (rent, salary, other) work again",
-  "notes_ckb": "• چاککردن: دوگمەکانی خەرجی جێگیر (کرێ، مووچە، خەرجی تر) دووبارە کار دەکەنەوە",
-  "sig": "d849eb2862fe4480f73b12ec88b773381945f951bd6c6837254c25046ee5269c6d40d01d6701d7460eb81df65d4554b27d803411df4a9497eb31aad84f6ccb08"
+  "version": "1.3.3",
+  "url": "https://raw.githubusercontent.com/momoej96/DentaCare-releases-/main/DentaCare-Setup-1.3.3.exe",
+  "size": 15726084,
+  "sha256": "edf84b98d03cd629ea98dc7da3850864b1e4940479a9250e5a4a9cbfe80e121b",
+  "notes": "• جولة تعريفية: 8 مهمات قصيرة تتعلم بيها البرنامج بإيدك على عيادة تجريبية — بياناتك ما تتأثر (الإعدادات ← المساعدة)\n• نسخ احتياطي تلقائي لمجلد تختاره (Google Drive أو فلاشة) بالوقت اللي تحدده، وتنبيه إذا تأخرت النسخ\n• إضافة أشعة من الحاسوب ويه نوعها: OPG أو Periapical أو Cephalometric\n• حجم الواجهة يكبّر البرنامج كله (Ctrl و + / −)\n• لون البرنامج صار بمكان واحد: لكل أجهزة العيادة أو لهذا الجهاز بس\n• استيراد Excel: تختار الأعمدة بنفسك، ويفهم التواريخ أحسن (يوم/شهر أو شهر/يوم، وأسماء الأشهر)\n• تنصيب جديد: إذا تشتغل وحدك كل شي ينسجل باسمك، وسؤال عن سنسر الأشعة",
+  "notes_en": "• Guided tour: 8 short hands-on tasks in a practice clinic — your data is not affected (Settings → Help)\n• Automatic backup to a folder you choose (Google Drive or a USB drive) at the time you set, with a reminder if backups are late\n• Add X-rays from the computer with their type: OPG, Periapical or Cephalometric\n• Interface size now enlarges the whole program (Ctrl + / −)\n• Program color in one place: for all clinic devices or this device only\n• Excel import: choose the columns yourself, and better date understanding (day/month or month/day, month names)\n• New installs: working alone records everything under your name, plus an X-ray sensor question",
+  "notes_ckb": "• گەشتی ناساندن: 8 ئەرکی کورت بۆ فێربوونی بەرنامە بە دەستی خۆت لە کلینیکێکی تاقیکاری — زانیارییەکانت کاریگەری لەسەر نابێت (ڕێکخستنەکان ← یارمەتی)\n• پاشەکەوتی خۆکار بۆ فۆڵدەرێک کە هەڵیدەبژێریت (Google Drive یان فلاش) لە کاتی دیاریکراو، لەگەڵ ئاگادارکردنەوە ئەگەر دواکەوت\n• زیادکردنی تیشک لە کۆمپیوتەرەوە لەگەڵ جۆرەکەی: OPG یان Periapical یان Cephalometric\n• قەبارەی ڕووکار هەموو بەرنامەکە گەورە دەکات (Ctrl + / −)\n• ڕەنگی بەرنامە لە یەک شوێن: بۆ هەموو ئامێرەکانی کلینیک یان تەنها ئەم ئامێرە\n• هێنانی ئێکسڵ: ستوونەکان خۆت هەڵدەبژێریت، و تێگەیشتنی باشتر لە بەروار\n• دامەزراندنی نوێ: ئەگەر بە تەنها کار دەکەیت هەموو شتێک بە ناوی تۆ تۆمار دەکرێت، و پرسیار دەربارەی سێنسەری تیشک",
+  "sig": "3d77533548ecab60aa7a67b8bc35f0c5a7efe8072339a44978b9bc515eacfc4c883e5eb76caf47584daf0c2a8150084b2365f3301c9b023cbbca31efa7f72606"
 }
