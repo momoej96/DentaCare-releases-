@@ -1,10 +1,10 @@
 {
-  "version": "1.3.7",
-  "url": "https://raw.githubusercontent.com/momoej96/DentaCare-releases-/main/DentaCare-Setup-1.3.7.exe",
-  "size": 16160395,
-  "sha256": "1a77a702b12256472b7bbe1e450929331c45b59afcb47e2ac5b214afa1e6f71c",
-  "notes": "تصحيح حفظ تاريخ ميلاد المواليد قبل 2000. تذكيرات الواتساب صارت خيار يُفعّل (مع «نص الرسالة» تحت المفتاح)، وزر تذكير بصفحة المديونين. وشاشة «ما الجديد» مع جولة تعليمية بعد كل تحديث.",
-  "notes_en": "Fix: patients born before 2000 can now be saved.\nWhatsApp reminders are now an opt-in feature (Settings and setup), with the message-text editor under the toggle.\nWhatsApp reminder button added to the debtors list.\nWhats-new screen with a guided tour after each update.",
-  "notes_ckb": "چاکسازی: ئێستا نەخۆشانی لەدایکبووی پێش ٢٠٠٠ پاشەکەوت دەکرێن.\nبیرخەرەوەکانی واتساپ کرانە تایبەتمەندییەکی ئیختیاری، لەگەڵ دەستکاریکردنی دەقی نامە لەژێر دوگمەکە.\nدوگمەی بیرخستنەوەی واتساپ بۆ لیستی قەرزداران.\nشاشەی نوێکان و گەشتی ڕێنمایی دوای هەر نوێکردنەوەیەک.",
-  "sig": "1ee59db10587c301452fe7568cb3b2697f1e59733f2658b9abbd1f3de0d8143d5c7f65051222abb4d4ebc7aff9b210ba9f3b503b921923388ed28f4db538e50d"
+  "version": "1.3.8",
+  "url": "https://raw.githubusercontent.com/momoej96/DentaCare-releases-/main/DentaCare-Setup-1.3.8.exe",
+  "size": 16169535,
+  "sha256": "7183107f2cfc58eb907589771e023f64a379b42b99cb856e15dcf66f9a5b6cfa",
+  "notes": "• حشوة الجذر صار لها سعرين بقائمة الأسعار: سن أمامي (1–5) وسن خلفي (6–8) — تختار السن والسعر يتبدّل وحده\n• إجراء جديد: أشعة (سن واحد أو بانوراما)\n• «إجراء آخر» تكدر تخلّيه دائمي بسعره ويطلعلك ويّا الإجراءات\n• حذف الزيارة يحذف دفعتها ويّاها، وتعديل كلفة زيارة مدفوعة بالكامل يعدّل دفعتها",
+  "notes_en": "Root canal priced by tooth: anterior (1-5) and posterior (6-8) in the price list; one root canal procedure picks the price from the tooth.\nNew X-ray procedure (single tooth / panoramic).\n\"Other procedure\" can be kept permanently with its price.\nDeleting a visit deletes its payment too; editing a fully-paid visit cost updates its payment.",
+  "notes_ckb": "حشوەی ڕەگ بە پێی ددان نرخ دەکرێت: پێشەوە (1-5) و دواوە (6-8).\nکاری نوێ: تیشک (یەک ددان / پانۆراما).\n«کاری تر» دەتوانرێت هەمیشەیی بێت بە نرخەکەیەوە.\nسڕینەوەی سەردان پارەدانەکەشی دەسڕێتەوە؛ گۆڕینی تێچووی سەردانی تەواو پارەدراو پارەدانەکەش دەگۆڕێت.",
+  "sig": "5888e104e032d70fb8f48dc4f8b2abb457c2395a3879c321dfa78fcd7ff3d12ec98e8636fa6d82a9cdbd820724f8300982797b9fcb4bb683d174109679eb9108"
 }
