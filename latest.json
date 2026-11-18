@@ -1,10 +1,10 @@
 {
-  "version": "1.3.8",
-  "url": "https://raw.githubusercontent.com/momoej96/DentaCare-releases-/main/DentaCare-Setup-1.3.8.exe",
-  "size": 16169535,
-  "sha256": "7183107f2cfc58eb907589771e023f64a379b42b99cb856e15dcf66f9a5b6cfa",
-  "notes": "• حشوة الجذر صار لها سعرين بقائمة الأسعار: سن أمامي (1–5) وسن خلفي (6–8) — تختار السن والسعر يتبدّل وحده\n• إجراء جديد: أشعة (سن واحد أو بانوراما)\n• «إجراء آخر» تكدر تخلّيه دائمي بسعره ويطلعلك ويّا الإجراءات\n• حذف الزيارة يحذف دفعتها ويّاها، وتعديل كلفة زيارة مدفوعة بالكامل يعدّل دفعتها",
-  "notes_en": "Root canal priced by tooth: anterior (1-5) and posterior (6-8) in the price list; one root canal procedure picks the price from the tooth.\nNew X-ray procedure (single tooth / panoramic).\n\"Other procedure\" can be kept permanently with its price.\nDeleting a visit deletes its payment too; editing a fully-paid visit cost updates its payment.",
-  "notes_ckb": "حشوەی ڕەگ بە پێی ددان نرخ دەکرێت: پێشەوە (1-5) و دواوە (6-8).\nکاری نوێ: تیشک (یەک ددان / پانۆراما).\n«کاری تر» دەتوانرێت هەمیشەیی بێت بە نرخەکەیەوە.\nسڕینەوەی سەردان پارەدانەکەشی دەسڕێتەوە؛ گۆڕینی تێچووی سەردانی تەواو پارەدراو پارەدانەکەش دەگۆڕێت.",
-  "sig": "5888e104e032d70fb8f48dc4f8b2abb457c2395a3879c321dfa78fcd7ff3d12ec98e8636fa6d82a9cdbd820724f8300982797b9fcb4bb683d174109679eb9108"
+  "version": "1.3.9",
+  "url": "https://raw.githubusercontent.com/momoej96/DentaCare-releases-/main/DentaCare-Setup-1.3.9.exe",
+  "size": 16197733,
+  "sha256": "39993b08ceccdd4fdafc5f0bc9b8fc657221dfea9cf9fbef2e9941079b77d937",
+  "notes": "• التقارير: اضغط أي بطاقة (الزيارات، المراجعين الجدد…) والرسم يعرضها، ومقسّمة على كل طبيب — وتضغط اسم الطبيب تخفيه أو ترجعه\n• تسجيل الحضور: «حاجز موعد؟» بساعة الحجز، ويترتب بلوحة التحكم حسب الحجز أو الحضور\n• البحث بالإجراء: اكتب «تقويم» أو «زراعة» ويطلعلك كل مراجع عنده\n• أوقات الدوام لكل يوم على حدة (مثلاً الجمعة صباحاً)، والإجراء الدائمي تكدر تحسبه على عدد الأسنان، وزيارة التقويم الشهرية تبين شكد سدّد\n• الحجز بالموبايل: كل طبيب بشاشة بمواعيد كبيرة وواضحة، وتكدر تعدّل الموعد أو تلغيه من الموبايل",
+  "notes_en": "Reports: click any card (visits, new patients…) and the chart shows it, split by doctor; click a doctor's name to hide or show them.\nCheck-in: \"has an appointment?\" with its time, ordered on the dashboard by booking or arrival.\nSearch by procedure: type \"orthodontics\" or \"implant\" to list every patient who has it.\nWorking hours per day (e.g. Friday morning); a permanent procedure can be charged per tooth; the monthly ortho visit shows the amount paid.\nPhone bookings: one doctor per screen with large cards, and appointments can be edited or cancelled from the phone.",
+  "notes_ckb": "ڕاپۆرتەکان: کرتە لە هەر کارتێک بکە (سەردان، سەردانکەری نوێ…) و هێڵکارییەکە پیشانی دەدات، بەسەر هەر پزیشکێکدا دابەشکراو؛ کرتە لە ناوی پزیشک بکە بۆ شاردنەوە یان گەڕاندنەوە.\nتۆمارکردنی هاتن: «کاتی گیراوە؟» لەگەڵ کاتەکەی، لە داشبۆرد بەپێی نۆرە یان هاتن ڕیز دەکرێت.\nگەڕان بە کار: «ڕێکخستن» یان «چاندن» بنووسە و هەموو ئەو سەردانکەرانەی هەیانە دەردەکەون.\nکاتی دەوام بۆ هەر ڕۆژێک بە جیا (بۆ نموونە هەینی بەیانی)؛ کاری هەمیشەیی بەپێی ژمارەی ددان حیساب دەکرێت؛ سەردانی مانگانەی ڕێکخستن بڕی دراو پیشان دەدات.\nنۆرەگرتن بە مۆبایل: هەر پزیشکێک لە شاشەیەکی جیا بە کارتی گەورە، و نۆرە لە مۆبایلەوە دەستکاری یان هەڵدەوەشێنرێتەوە.",
+  "sig": "6bb8d4698b221393fc47365a8e74adf83dc4554b1ebe4956351f17d3c0237869adb4f24db00b63201ea562e5859ab82cab05cbf49c4ec3a6589f712508624c0d"
 }
